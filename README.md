@@ -1,1 +1,1 @@
-# Java-Script-Practis
+# Java-Script-Practise
